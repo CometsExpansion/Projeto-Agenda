@@ -28,6 +28,9 @@ git commit -m 'Mensagem'
 
 git remote add origin URL_DO_GIT
 
+git push origin main -u (primeira vez)
+
+git push
 
 
 # inicilizar o bash
@@ -35,6 +38,5 @@ eval "$(ssh-agent -s)"
 
 ssh-add ~/.ssh/CometsExpansion
 
-git push origin main -u
 
-git push
+
